@@ -1,77 +1,68 @@
 .pole {
-  width: 1200px;
-  height: 450px;
-  background-color: green;
-  position: absolute;
-    top: 100px;
-    left: 0px;
+width: 1200px;
+height: 450px;
+background-color: green;
+position: absolute;
+top: 100px;
+left: 0px;
 }
 .mirrorY { transform: scale(-1, 1); }
 .vorota1 {
-    width: 400px;
-    height: 400px;
-    position: absolute;
-    top: 50px;
-    left: 00px;
+width: 400px;
+height: 400px;
+position: absolute;
+top: 50px;
+left: 00px;
 }
 .vorota2{
-  width: 400px;
-  height: 400px;
-  position: absolute;
-    top: 50px;
-    left: 800px;
-  }
- .ball{
-   width: 50px;
-   height: 50px;
-   position: absolute;
-   top: 350px;
-   left: 750px;
-   }
+left: 800px;
+}
+
+.ball{
+width: 50px;
+height: 50px;
+position: absolute;
+top: 350px;
+left: 750px;
+}
 
 .lightOff1 {
-  width: 50px;
-  height: 50px;
-  position: absolute;
-  top: 10px;
-  left: 220px;
-  }
-  .lightOn1 {
-    width: 50px;
-    height: 50px;
-    position: absolute;
-    top: 10px;
-    left: 220px;
-
-    }
-  .lightOff2 {
-    width: 50px;
-    height: 50px;
-    position: absolute;
-    top: 10px;
-    left: 950px;
-    }
-    .lightOn2 {
-      width: 50px;
-      height: 50px;
-      position: absolute;
-      top: 10px;
-      left: 950px;
-
-      }
-.hidden{
-    display: none;
+width: 50px;
+height: 50px;
+position: absolute;
+top: 10px;
+left: 220px;
 }
-      .tablo
-      {
-        width: 200px;
-        height: 100px;
-        position: absolute;
-        top: 0px;
-        left: 500px;
-        }
+.lightOff2 {
+left: 950px;
+}
+
+.lightOn1 {
+width: 50px;
+height: 50px;
+position: absolute;
+top: 10px;
+left: 220px;
+}
+.lightOn2 {
+left: 950px;
+
+}
+.hidden{
+display: none;
+}
+
+.tablo
+{
+width: 200px;
+height: 100px;
+position: absolute;
+top: 0px;
+left: 500px;
+}
+
 .tablo1 {
-  width: 61px;
+width: 61px;
 height: 41px;
 position: absolute;
 background-color: #1f1b20;
@@ -82,16 +73,7 @@ font-family: 'a_LCDNova', arial;
 text-align:center;
 color: #e80707;
 }
-.tablo2 {
 
-  width: 61px;
-height: 41px;
-position: absolute;
-background-color: #1f1b20;
-top: 35px;
+.tablo2 {
 left: 637px;
-font: 42pt  Regular;
-font-family: 'a_LCDNova', arial;
-text-align:center;
-color: #e80707;
 }
