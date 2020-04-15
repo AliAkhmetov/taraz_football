@@ -70,3 +70,28 @@
         top: 0px;
         left: 500px;
         }
+.tablo1 {
+  width: 61px;
+height: 41px;
+position: absolute;
+background-color: #1f1b20;
+top: 35px;
+left: 502px;
+font: 42pt  Regular;
+font-family: 'a_LCDNova', arial;
+text-align:center;
+color: #e80707;
+}
+.tablo2 {
+
+  width: 61px;
+height: 41px;
+position: absolute;
+background-color: #1f1b20;
+top: 35px;
+left: 637px;
+font: 42pt  Regular;
+font-family: 'a_LCDNova', arial;
+text-align:center;
+color: #e80707;
+}
